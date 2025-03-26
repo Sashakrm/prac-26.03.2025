@@ -1,0 +1,9 @@
+body {
+    background-color: green;
+}
+.wrapper{
+    height: 1206.0px;
+border-radius: 40px;
+background-color: aqua;
+margin: 0, auto;
+}
